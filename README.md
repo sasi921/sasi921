@@ -15,14 +15,13 @@
 
 ## About me
 
-I’m a software engineer focused on the intersection of **full-stack development, AI/ML, cloud engineering, and data systems**. I enjoy turning complex ideas into practical products — from intelligent assistants and agent workflows to production web applications and backend services.
+I’m a software engineer focused on **full-stack development, AI/ML, cloud engineering, and data systems**. I enjoy turning complex ideas into practical products — from intelligent assistants and agent workflows to production web applications and backend services.
 
 - 🔭 Building practical **AI agents, RAG applications, and full-stack systems**
 - 🧠 Working with **LLMs, vector search, retrieval, evaluation, and agentic workflows**
 - ☁️ Building with **AWS, Azure, Docker, Kubernetes, and CI/CD**
 - 🧩 Comfortable across frontend, backend, APIs, databases, and data pipelines
-- 📍 Based in the United States
-- 🎯 Interested in Software Engineering, AI/ML Engineering, Full-Stack, Backend, Data Engineering, and DevOps roles
+- 🎯 Open to Software Engineering, AI/ML Engineering, Full-Stack, Backend, Data Engineering, and DevOps opportunities
 
 ---
 
@@ -58,45 +57,34 @@ I’m a software engineer focused on the intersection of **full-stack developmen
 ## Featured projects
 
 ### [100 Days of AI Agents](https://github.com/sasi921/100-Days-of-AI-Agents)
-A hands-on series of practical AI bots and agents — from prompting and tool use to RAG, MCP, multi-agent systems, evaluation, and production AI.
-
-**Highlights:** runnable projects, tests, examples, `.env.example` templates, structured learning roadmap, and progressively more advanced agent patterns.
-
----
+Build 100 practical AI bots and agents — from prompting and tool use to RAG, MCP, multi-agent systems, evaluation, and production AI.
 
 ### [Portfolio](https://github.com/sasi921/portfolio)
-A modern responsive portfolio showcasing my work across AI, full-stack engineering, cloud systems, backend development, and data projects.
-
-**Focus:** recruiter-friendly project storytelling, responsive design, accessibility, and concise technical impact.
-
----
+Personal engineering portfolio showcasing full-stack, AI/ML, cloud, backend, and production software projects.
 
 ### [Almadatum Website](https://github.com/sasi921/Almadatum-Website)
-A full-stack alumni management platform with database-backed CRUD workflows, dashboards, analytics, and responsive web interfaces.
-
-**Tech:** web frontend, PHP/Python backend workflows, SQL/database integration, secure CRUD patterns.
-
----
+Full-stack alumni management platform with database-backed CRUD workflows, dashboards, analytics, and responsive web interfaces.
 
 ### [Customer Segmentation & Predictive Analysis](https://github.com/sasi921/Customer-Segmentation-Predictive-Analysis)
-An end-to-end data mining and machine-learning project using RFM features, PCA, K-Means clustering, recommendations, and predictive modeling.
-
-**Highlights:** customer segmentation, cluster evaluation, spending prediction, and recommendation logic.
-
----
+End-to-end customer analytics project using RFM, PCA, K-Means clustering, recommendations, and predictive modeling.
 
 ### [RDBMS Normalizer](https://github.com/sasi921/RDBMS-Normalizer)
-A Python tool for analyzing relational schemas and dependencies and normalizing database designs through advanced normal forms.
-
-**Highlights:** schema parsing, functional dependencies, MVD handling, normalization workflows, and SQL generation.
+Python tool that analyzes relational schemas and functional dependencies to normalize databases from 1NF through advanced normal forms.
 
 ---
 
-## More projects
+## Public repository portfolio
 
-- [Recommendation Systems using SGD](https://github.com/sasi921/Resolving-Sparsity-in-Recommendation-Systems-using-SGD) — matrix factorization and SGD for sparse recommendation systems
-- [University Management Database](https://github.com/sasi921/University-Management-Database) — Oracle SQL, EER modeling, 3NF design, joins, subqueries, aggregation, and set operations
-- [Procedural Racetrack in Houdini](https://github.com/sasi921/Procedural-Racetrack-Houdini) — procedural terrain, racetrack generation, barriers, instancing, and vegetation workflows
+| Repository | What it demonstrates |
+|---|---|
+| [100-Days-of-AI-Agents](https://github.com/sasi921/100-Days-of-AI-Agents) | Practical AI-agent engineering from beginner workflows to RAG, MCP, evaluation, and production patterns |
+| [portfolio](https://github.com/sasi921/portfolio) | Responsive portfolio design, accessibility, project storytelling, and front-end engineering |
+| [Almadatum-Website](https://github.com/sasi921/Almadatum-Website) | Full-stack CRUD, dashboards, data workflows, and alumni engagement features |
+| [Customer-Segmentation-Predictive-Analysis](https://github.com/sasi921/Customer-Segmentation-Predictive-Analysis) | RFM analysis, PCA, K-Means clustering, recommendations, and predictive modeling |
+| [RDBMS-Normalizer](https://github.com/sasi921/RDBMS-Normalizer) | Database normalization algorithms, dependency analysis, schema decomposition, and SQL generation |
+| [Resolving-Sparsity-in-Recommendation-Systems-using-SGD](https://github.com/sasi921/Resolving-Sparsity-in-Recommendation-Systems-using-SGD) | Matrix factorization, SGD optimization, and sparse recommendation-system research |
+| [University-Management-Database](https://github.com/sasi921/University-Management-Database) | Oracle SQL, EER modeling, 3NF design, joins, subqueries, aggregation, and set operations |
+| [Procedural-Racetrack-Houdini](https://github.com/sasi921/Procedural-Racetrack-Houdini) | Procedural modeling, terrain generation, geometry instancing, and environment design in Houdini |
 
 ---
 
@@ -110,8 +98,6 @@ A Python tool for analyzing relational schemas and dependencies and normalizing 
 ---
 
 ## Current focus
-
-I’m currently focused on building stronger public engineering work around:
 
 - AI agents and agentic workflows
 - RAG and retrieval systems

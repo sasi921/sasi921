@@ -56,8 +56,10 @@ I’m a software engineer focused on **full-stack development, AI/ML, cloud engi
 
 ## Featured projects
 
-### [100 Days of AI Agents](https://github.com/sasi921/100-Days-of-AI-Agents)
-Build 100 practical AI bots and agents — from prompting and tool use to RAG, MCP, multi-agent systems, evaluation, and production AI.
+### AI Agent Engineering Lab
+A growing collection of standalone AI-agent projects covering prompting, tool use, APIs, guardrails, workflows, database agents, grounded research, reliability, and production-oriented agent patterns.
+
+**Featured agent repos:** [Resilient API Agent](https://github.com/sasi921/Resilient-API-Agent) · [GitHub Repository Insight Agent](https://github.com/sasi921/GitHub-Repository-Insight-Agent) · [SQL Data Analyst Agent](https://github.com/sasi921/SQL-Data-Analyst-Agent) · [AI Multi-Tool Function Calling Agent](https://github.com/sasi921/AI-Multi-Tool-Function-Calling-Agent)
 
 ### [Portfolio](https://github.com/sasi921/portfolio)
 Personal engineering portfolio showcasing full-stack, AI/ML, cloud, backend, and production software projects.
@@ -73,11 +75,35 @@ Python tool that analyzes relational schemas and functional dependencies to norm
 
 ---
 
+## AI Agent Engineering Lab — standalone projects
+
+| Project | Focus |
+|---|---|
+| [AI Resume Analyzer Agent](https://github.com/sasi921/AI-Resume-Analyzer-Agent) | Resume/job matching, prompt design, structured analysis |
+| [AI Weather Briefing Agent](https://github.com/sasi921/AI-Weather-Briefing-Agent) | External APIs, tool data, graceful fallback |
+| [AI Web Research Agent](https://github.com/sasi921/AI-Web-Research-Agent) | Web extraction, grounding, source-aware Q&A |
+| [AI Meeting Action Item Extractor](https://github.com/sasi921/AI-Meeting-Action-Item-Extractor) | Structured outputs, action items, Pydantic validation |
+| [AI Email Reply Assistant](https://github.com/sasi921/AI-Email-Reply-Assistant) | Prompt boundaries, tone control, safe replies |
+| [AI Support Ticket Triage Bot](https://github.com/sasi921/AI-Support-Ticket-Triage-Bot) | Classification, routing, escalation |
+| [AI Prompt Guardrail Safety Gateway](https://github.com/sasi921/AI-Prompt-Guardrail-Safety-Gateway) | Prompt injection checks, PII review, moderation |
+| [AI Intent Router](https://github.com/sasi921/AI-Intent-Router) | Intent classification, confidence thresholds, routing |
+| [AI Calculator Tool Agent](https://github.com/sasi921/AI-Calculator-Tool-Agent) | Tool contracts, safe execution, grounded answers |
+| [AI Multi-Tool Function Calling Agent](https://github.com/sasi921/AI-Multi-Tool-Function-Calling-Agent) | Function calling, tool registry, dispatch |
+| [Live Weather Tool Agent](https://github.com/sasi921/Live-Weather-Tool-Agent) | Live API tools, geocoding, normalization |
+| [API Workflow Agent](https://github.com/sasi921/API-Workflow-Agent) | Multi-step workflows, API orchestration |
+| [Approval-Gated Action Agent](https://github.com/sasi921/Approval-Gated-Action-Agent) | Human approval, least privilege, state-changing tools |
+| [SQL Data Analyst Agent](https://github.com/sasi921/SQL-Data-Analyst-Agent) | Natural-language-to-SQL, read-only guardrails |
+| [File Research Agent](https://github.com/sasi921/File-Research-Agent) | Retrieval, evidence grounding, citations |
+| [GitHub Repository Insight Agent](https://github.com/sasi921/GitHub-Repository-Insight-Agent) | Multi-endpoint GitHub analysis and repository insights |
+| [Resilient API Agent](https://github.com/sasi921/Resilient-API-Agent) | Retries, backoff, timeouts, graceful degradation |
+
+---
+
 ## Public repository portfolio
 
 | Repository | What it demonstrates |
 |---|---|
-| [100-Days-of-AI-Agents](https://github.com/sasi921/100-Days-of-AI-Agents) | Practical AI-agent engineering from beginner workflows to RAG, MCP, evaluation, and production patterns |
+| [AI Agent Engineering Lab](https://github.com/sasi921?tab=repositories) | Standalone AI-agent repositories spanning tools, APIs, safety, workflows, retrieval, reliability, and agent engineering |
 | [portfolio](https://github.com/sasi921/portfolio) | Responsive portfolio design, accessibility, project storytelling, and front-end engineering |
 | [Almadatum-Website](https://github.com/sasi921/Almadatum-Website) | Full-stack CRUD, dashboards, data workflows, and alumni engagement features |
 | [Customer-Segmentation-Predictive-Analysis](https://github.com/sasi921/Customer-Segmentation-Predictive-Analysis) | RFM analysis, PCA, K-Means clustering, recommendations, and predictive modeling |

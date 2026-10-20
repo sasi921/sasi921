@@ -59,7 +59,7 @@ I’m a software engineer focused on **full-stack development, AI/ML, cloud engi
 ### AI Agent Engineering Lab
 A growing collection of standalone AI-agent projects covering prompting, tool use, APIs, guardrails, workflows, database agents, grounded research, reliability, and production-oriented agent patterns.
 
-**Featured agent repos:** [Resilient API Agent](https://github.com/sasi921/Resilient-API-Agent) · [GitHub Repository Insight Agent](https://github.com/sasi921/GitHub-Repository-Insight-Agent) · [SQL Data Analyst Agent](https://github.com/sasi921/SQL-Data-Analyst-Agent) · [AI Multi-Tool Function Calling Agent](https://github.com/sasi921/AI-Multi-Tool-Function-Calling-Agent)
+**Featured agent repos:** [Local RAG Knowledge Agent](https://github.com/sasi921/Local-RAG-Knowledge-Agent) · [Resilient API Agent](https://github.com/sasi921/Resilient-API-Agent) · [GitHub Repository Insight Agent](https://github.com/sasi921/GitHub-Repository-Insight-Agent) · [SQL Data Analyst Agent](https://github.com/sasi921/SQL-Data-Analyst-Agent)
 
 ### [Portfolio](https://github.com/sasi921/portfolio)
 Personal engineering portfolio showcasing full-stack, AI/ML, cloud, backend, and production software projects.
@@ -96,6 +96,7 @@ Python tool that analyzes relational schemas and functional dependencies to norm
 | [File Research Agent](https://github.com/sasi921/File-Research-Agent) | Retrieval, evidence grounding, citations |
 | [GitHub Repository Insight Agent](https://github.com/sasi921/GitHub-Repository-Insight-Agent) | Multi-endpoint GitHub analysis and repository insights |
 | [Resilient API Agent](https://github.com/sasi921/Resilient-API-Agent) | Retries, backoff, timeouts, graceful degradation |
+| [Local RAG Knowledge Agent](https://github.com/sasi921/Local-RAG-Knowledge-Agent) | Local retrieval, chunking, similarity search, grounded answers, citations |
 
 ---
 
